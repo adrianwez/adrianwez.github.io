@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.ff9ba0a8.css",
-    "main.js": "/static/js/main.4fab21c8.js",
-    "static/media/Building.gltf": "/static/media/Building.d295f01b5946ae77bcb1.gltf",
-    "static/media/pavment_normal.jpg": "/static/media/pavment_normal.86f1992a5c706c7f0386.jpg",
-    "static/media/pavment_roughness.jpg": "/static/media/pavment_roughness.19006fe14c0e4a2a9fe2.jpg",
+    "main.js": "/static/js/main.1f30a42e.js",
+    "static/media/pavment_normal.jpg": "/static/media/pavment_normal.d0e88cf9152c33043c05.jpg",
+    "static/media/pavment_roughness.jpg": "/static/media/pavment_roughness.19f227d22fc9296fe579.jpg",
     "index.html": "/index.html",
     "main.ff9ba0a8.css.map": "/static/css/main.ff9ba0a8.css.map",
-    "main.4fab21c8.js.map": "/static/js/main.4fab21c8.js.map"
+    "main.1f30a42e.js.map": "/static/js/main.1f30a42e.js.map"
   },
   "entrypoints": [
     "static/css/main.ff9ba0a8.css",
-    "static/js/main.4fab21c8.js"
+    "static/js/main.1f30a42e.js"
   ]
 }
